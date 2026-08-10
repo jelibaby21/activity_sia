@@ -1,0 +1,25 @@
+{
+  "name": "canoy.sia",
+  "version": "1.0.0",
+  "description": "Classroom activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/jelibaby21/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/jelibaby21/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelibaby21/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Canoy, Jellica",
+  "type": "commonjs",
+  "main": "activity1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

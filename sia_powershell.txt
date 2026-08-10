@@ -1,0 +1,87 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\canoy> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (canoy)
+version: (1.0.0)
+description:
+git repository: https://github.com/jelibaby21/activity_sia.git
+keywords: sia,activity,sy25-26
+author: Canoy, Jellica
+license: (ISC)
+type: (commonjs)
+About to write to C:\Users\canoy\package.json:
+
+{
+  "name": "canoy",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Canoy, Jellica",
+  "type": "commonjs",
+  "main": "activity1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelibaby21/activity_sia.git"
+  },
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "bugs": {
+    "url": "https://github.com/jelibaby21/activity_sia/issues"
+  },
+  "homepage": "https://github.com/jelibaby21/activity_sia#readme"
+}
+
+
+Is this OK? (yes)
+PS C:\Users\canoy> dir
+
+
+    Directory: C:\Users\canoy
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         7/29/2026   5:17 PM                .copilot
+d-----         7/29/2026   4:48 PM                .redhat
+d-----         10/8/2025   9:43 PM                .vscode
+d-----         7/26/2026   9:02 PM                .vscode-shared
+d-----         2/23/2026   3:12 PM                activity1.js
+d-r---          7/5/2025   9:15 AM                Contacts
+d-----        10/12/2024   2:10 PM                Documents
+d-r---          8/7/2026   3:03 PM                Downloads
+dar--l        11/20/2025   9:29 PM                Dropbox
+d-r---          7/5/2025   9:15 AM                Favorites
+d-r---          7/5/2025   9:15 AM                Links
+d-r---          7/5/2025   9:15 AM                Music
+dar--l         3/19/2026  10:31 PM                OneDrive
+d-r---          7/5/2025   9:15 AM                Saved Games
+d-r---          7/5/2025   9:15 AM                Searches
+d-r---          7/5/2025   9:15 AM                Videos
+d-----         7/23/2026   2:49 AM                WPS Cloud
+d-----         3/14/2026   1:37 PM                WPSDrive
+-a----         4/26/2026   9:19 PM            104 .node_repl_history
+-a----          8/9/2026  10:14 PM            556 package.json
+-a----         2/26/2026  10:59 PM           2328 tempCodeRunnerFile.cpp
+-a----         2/26/2026  10:59 PM          53598 tempCodeRunnerFile.exe
+
+
+PS C:\Users\canoy>
